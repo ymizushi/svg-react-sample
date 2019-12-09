@@ -1,5 +1,7 @@
 # svg-react-sample
 
+[![CircleCI](https://circleci.com/gh/ymizushi/svg-react-sample.svg?style=svg)](https://circleci.com/gh/ymizushi/svg-react-sample)
+
 the sample project to create svg with React. 
 
 # ex1. Heatmap
